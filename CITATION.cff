@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Pre-seed and seed investors, US, 2026 (energy, deeptech, neuroscience)"
+message: "If you use this dataset, please cite it."
+type: dataset
+authors:
+  - name: numberoneks
+doi: 10.5281/zenodo.24239379
+url: "https://preseed-investors.vercel.app/"
+repository-code: "https://github.com/numberoneks/preseed-investors-energy-deeptech-neuro"
