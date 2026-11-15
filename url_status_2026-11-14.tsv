@@ -1,0 +1,421 @@
+status	url	files	note
+500	http://www.nasdaqprivatemarket.com/company/gilgamesh-pharma	backer_targets.md	server error to curl
+200	https://acecap.com/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://afore.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://airtable.com/appQJ4zSchyLKGYd4/shrVPWhw0QnhgIaDs	free_databases.md	
+200	https://alix.vc/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://alleycorp.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://anthro.ventures/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://asymmetry.vc	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://axialvc.com/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://ayuhvc.com	wikidata.md	
+200	https://baruch.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://baukunst.co/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://beepartners.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://better.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://blank.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://ca.finance.yahoo.com/news/chip-startup-groq-raises-750-113709140.html	backer_targets.md	
+200	https://ca.finance.yahoo.com/news/chip-startup-groq-raises-750-113709495.html	backer_targets.md	
+200	https://caffeinatedcapital.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://cantos.vc/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://carbonsilicon.vc/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://cbinsights.iad1.qualtrics.com/jfe/form/SV_e8rXTxvkDDEQS7c	backer_targets.md; corrections.md; free_databases.md	
+200	https://climatecapital.co/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://cofoundpartners.com	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://colle.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://connect.visible.vc	free_databases.md	
+200	https://conscience.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+202	https://cortical.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	bot-check interstitial
+200	https://crew.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://cubit.capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://cybernetix.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://deciens.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://drivecapital.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://en.wikipedia.org/wiki/AtaiBeckley	backer_targets.md	
+200	https://en.wikipedia.org/wiki/Groq	backer_targets.md; tool/index.html	
+200	https://equitybee.com/liquidity-casestudies/groq	backer_targets.md	
+403	https://equityzen.com/company/gilgamesh	backer_targets.md	bot wall to curl; content read via Tavily or syndication
+403	https://equityzen.com/company/groq	backer_targets.md	bot wall to curl; content read via Tavily or syndication
+200	https://f-st.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://f4.fund/firms/gilgamesh-ventures	backer_targets.md	
+200	https://fiftyyears.com/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://finance.yahoo.com/healthcare/articles/lilly-enters-psychedelic-drug-race-105046700.html	backer_targets.md	
+200	https://finance.yahoo.com/news/chip-startup-groq-raises-750-113709471.html	backer_targets.md	
+200	https://finance.yahoo.com/news/chip-startup-groq-raises-750-113709471.html?fr=sycsrp_catchall	backer_targets.md	
+200	https://finance.yahoo.com/news/groq-investor-said-hes-deeply-050301459.html?fr=sycsrp_catchall	backer_targets.md	
+200	https://finance.yahoo.com/sectors/healthcare/articles/gilgamesh-pharma-closes-oversubscribed-60-160100524.html	backer_targets.md	
+200	https://finance.yahoo.com/technology/ai/articles/nvidia-backed-groq-seeks-8-013053376.html	backer_targets.md	
+403	https://forgeglobal.com/groq_stock	backer_targets.md	bot wall to curl; content read via Tavily or syndication
+200	https://form.typeform.com/to/a8GP9c25	free_databases.md	
+200	https://forms.fillout.com/t/m5Cq4V9Kk5us	free_databases.md	
+200	https://fusionfund.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://future.ventures/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://gilgameshvc.com/articles/lessons.html	backer_targets.md	
+200	https://github.com/Reshu-Bhatt3429/investors-preseed	github_prs.md	
+200	https://github.com/Vicky8106/awesome-angel-investors-vcs	github_prs.md	
+200	https://github.com/brandonhimpfen/awesome-climate-tech	github_prs.md	
+200	https://github.com/conorbronsdon/ai-angels	github_prs.md	
+200	https://github.com/genoxdeveloper/Awesome-Startup-Global-Explorer	github_prs.md	
+404	https://github.com/numberoneks/preseed-investors-energy-deeptech-neuro	github_prs.md	proposed repo; does not exist yet
+200	https://greenegg.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://greycroft.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale	backer_targets.md; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://groq.com/newsroom/groq-closes-usd350-million-series-a-building-the-world-s-leading-ai-inference-cloud	backer_targets.md	
+200	https://groq.com/newsroom/groq-raises-usd650m-to-scale-its-ai-inference-cloud-business	backer_targets.md	
+200	https://gutter.cc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://harpoon.vc/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://human.capital/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+202	https://humboldtfund.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	bot-check interstitial
+200	https://industrious.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://innospark.vc/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://innovating.capital/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://interfacefund.vc/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+403	https://investor.lilly.com/news-releases/news-release-details/lilly-completes-acquisition-ataibeckley-advance-therapies	backer_targets.md; open_dataset/preseed_map_2026.md; tool/index.html	bot wall to curl; content read via Tavily or syndication
+200	https://landscape.vc	free_databases.md	
+200	https://longevity.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://lookingglass.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://lowercarboncapital.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://lsvp.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://macventurecapital.com/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+403	https://medium.com/@Gilgamesh_Ventures/gilgamesh-ventures-reflecting-on-lessons-from-our-first-fund-a57d5ebcddea	backer_targets.md	bot wall to curl; content read via Tavily or syndication
+403	https://medium.com/@Gilgamesh_Ventures/launching-gilgamesh-ventures-5faedd179b61	backer_targets.md	bot wall to curl; content read via Tavily or syndication
+403	https://medium.com/tdk-ventures/an-insider-investor-view-on-groq-d9bbd6c1a291	backer_targets.md	bot wall to curl; content read via Tavily or syndication
+200	https://multiples.vc/private-comps/beckley-psytech	backer_targets.md; corrections.md; github_prs.md; open_dataset/preseed_map_2026.md; tool/index.html; wikidata.md	
+200	https://multiples.vc/private-comps/gilgamesh-pharmaceuticals	backer_targets.md; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://multiples.vc/private-comps/groq	backer_targets.md; tool/index.html	
+200	https://news.abbvie.com/2025-10-17-AbbVie-Completes-Acquisition-of-Gilgamesh-Pharmaceuticals-Bretisilocin	backer_targets.md; open_dataset/preseed_map_2026.md	
+200	https://nextview.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://notation.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://onewayvc.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://openvc.fillout.com/t/1w9C67StH8us	corrections.md	
+200	https://osfund.co/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://outlander.vc/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://outsetcapital.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://pharmaphorum.com/news/atai-invests-50m-beckley-psytech	backer_targets.md	
+200	https://pharmaphorum.com/news/beckley-psytech-raises-80m-for-psychedelic-meds-development	wikidata.md	
+200	https://pharmaphorum.com/news/consolidation-psychedelics-atai-pairs-beckley	backer_targets.md	
+200	https://pillar.vc/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+403	https://pitchbook.com/profiles/company/436704-31	backer_targets.md; open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	bot wall to curl; content read via Tavily or syndication
+403	https://pitchbook.com/profiles/company/436997-62	backer_targets.md	bot wall to curl; content read via Tavily or syndication
+403	https://pitchbook.com/profiles/fund/22392-01F	backer_targets.md; corrections.md; github_prs.md; open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html; wikidata.md	bot wall to curl; content read via Tavily or syndication
+403	https://pitchbook.com/profiles/investor/464078-44	backer_targets.md; github_prs.md; open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html; wikidata.md	bot wall to curl; content read via Tavily or syndication
+403	https://pitchbook.com/profiles/investor/465264-01	backer_targets.md	bot wall to curl; content read via Tavily or syndication
+200	https://powerhouse.fund/ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://precursorvc.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://prithvivc.com	wikidata.md	
+403	https://privateequitylist.com/investors/gilgamesh-ventures	backer_targets.md	bot wall to curl; content read via Tavily or syndication
+200	https://projectstartups.com/startups/gilgamesh-pharma-gilgameshpharmaceuticalcom-2026-03-24	backer_targets.md	
+200	https://propellervc.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://psychedelicalpha.com/news/atai-life-sciences-makes-50m-investment-in-beckley-psytech	backer_targets.md	
+200	https://quickstatements.toolforge.org/#/batch	wikidata.md	
+200	https://r7.vc/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://redbeard.ventures/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://redbud.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://riot.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://scifounders.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://shizune.co	free_databases.md	
+200	https://social-impact-capital.com	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://sosv.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+500	https://spacevc.co/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	server error to curl
+200	https://superscout.co/contact?topic=corrections&pick=claim	corrections.md	
+200	https://superscout.co/corrections?path=%2Finvestor%2Fayuh-ventures	corrections.md	
+200	https://superscout.co/corrections?path=%2Finvestor%2Fprithvi-ventures	corrections.md	
+200	https://superscout.co/investor/ayuh-ventures	corrections.md	
+200	https://superscout.co/investor/prithvi-ventures	corrections.md	
+200	https://surface.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://synapse.patsnap.com/blog/atai-strategic-investment-in-beckley-psytech-to-jointly-develop-rapid-acting-psychedelic-medications	backer_targets.md	
+200	https://tavily.com/knowledge/company/85zUicHQAi0M	backer_targets.md	
+200	https://tavily.com/knowledge/company/mZ8tUKpztTc4	backer_targets.md	
+200	https://tdk-ventures.com/insights/an-insider-investor-view-on-groq	tool/index.html	
+202	https://thirdnatureinvestments.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	bot-check interstitial
+200	https://thirdsphere.com	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://tmv.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://tracxn.com/b/venture-capital/ayuh-ventures/__jIEt9dKbMshO0nJh2lc5tfqmRQiiXb2YClPJg6RfjyI/edit	backer_targets.md; corrections.md	
+200	https://tracxn.com/b/venture-capital/prithvi-ventures/__doUQRT1VIhWV5r_4GInzoryAHvFxtFIT94Q-r0Cu_s0/edit	backer_targets.md; corrections.md	
+429	https://tracxn.com/d/companies/beckley-psytech/__ZeuYzhpIkEr62anjk1AWH_UtFUcF6pPo-HZSZrebP18	backer_targets.md	rate-limited; page exists
+429	https://tracxn.com/d/companies/beckley-psytech/__ZeuYzhpIkEr62anjk1AWH_UtFUcF6pPo-HZSZrebP18/funding-and-investors	backer_targets.md	rate-limited; page exists
+429	https://tracxn.com/d/companies/groq-health/__7E3tP7eq7v7z9ZqJtD_a14EnJKrHWKG9yQPjlhJnfdE/funding-and-investors	backer_targets.md	rate-limited; page exists
+200	https://tracxn.com/d/companies/groq/__pMJjkNzO3GELYaHvYyAD0pQB4BYTFTHh4Klu4dAJvoU/funding-and-investors	backer_targets.md	
+202	https://tsginvest.com/groq	backer_targets.md	bot-check interstitial
+200	https://type1ventures.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+202	https://vibecap.co/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	bot-check interstitial
+200	https://visible.vc/connect	free_databases.md	
+200	https://visible.vc/partners	free_databases.md	
+200	https://www.112capital.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.1517fund.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.2048.vc	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+500	https://www.3cc.io	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	server error to curl
+200	https://www.8090industries.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.8vc.com	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.97212.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+500	https://www.abstract.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	server error to curl
+200	https://www.aera.vc	open_dataset/preseed_map_2026.md	
+200	https://www.aixventures.com/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.alloyfund.com/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.alsocapital.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.altcap.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.anorak.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.ayuhvc.com	corrections.md; free_databases.md; github_prs.md; open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html; wikidata.md	
+200	https://www.bbgventures.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.blackflag.vc/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+403	https://www.bloomberg.com/news/articles/2026-08-17/groq-valued-at-3-5-billion-in-funding-round-after-nvidia-deal	backer_targets.md	bot wall to curl; content read via Tavily or syndication
+200	https://www.boxgroup.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.businessinsider.com/contact	backer_targets.md	
+404	https://www.businessinsider.com/corrections	backer_targets.md	not found
+200	https://www.businessinsider.com/groq-could-reach-2-5-billion-in-new-funding-round-2024-6	backer_targets.md	
+200	https://www.businessinsider.com/groq-could-reach-2-5-billion-in-new-funding-round-2024-6?op=1	backer_targets.md	
+200	https://www.businessinsider.com/psychedelics-startup-beckley-psytech-noetic-fund-raise-treat-depression-2025-4	backer_targets.md	
+200	https://www.businessinsider.com/psychedelics-startup-beckley-psytech-pitch-deck-186-million-2020-12	backer_targets.md	
+200	https://www.cbinsights.com/company/beckley-psytech	backer_targets.md	
+200	https://www.cbinsights.com/company/gilgamesh-pharmaceuticals	backer_targets.md	
+200	https://www.cbinsights.com/company/gilgamesh-pharmaceuticals/financials	backer_targets.md	
+200	https://www.championhillventures.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.charge.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.closedlooppartners.com/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html	backer_targets.md	
+200	https://www.congruentvc.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.contextvc.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.cowboy.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+403	https://www.crunchbase.com/organization/gilgamesh	backer_targets.md	bot wall to curl; content read via Tavily or syndication
+403	https://www.crunchbase.com/organization/groq	backer_targets.md	bot wall to curl; content read via Tavily or syndication
+403	https://www.crunchbase.com/organization/prithvi-ventures	backer_targets.md	bot wall to curl; content read via Tavily or syndication
+200	https://www.deepchecks.vc	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.digitalisventures.com	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.discipulusventures.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.emersoncollective.com/work/venture-capital/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.energyimpactpartners.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+404	https://www.evalyze.ai/contact	corrections.md	not found
+200	https://www.evalyze.ai/investors/kunal-sethi	corrections.md	
+403	https://www.fiercebiotech.com/biotech/beckley-psytech-bags-80m-to-fuel-psychedelics-for-depression-debilitating-headaches	backer_targets.md; open_dataset/preseed_map_2026.md; wikidata.md	bot wall to curl; content read via Tavily or syndication
+200	https://www.firstinventures.com/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.firststar.vc/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.floodgate.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.foothill.ventures/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.gaingels.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.greatoaksvc.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.haystack.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+202	https://www.helioscapital.us/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	bot-check interstitial
+200	https://www.hofvc.com	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.inspiredcapital.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.iqt.org/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.julian.capital/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.k50ventures.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.kindredventures.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.laconiacapitalgroup.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.lererhippeau.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.linkedin.com/company/ayuh-ventures/	github_prs.md	
+200	https://www.linkedin.com/company/gilgamesh-ventures	backer_targets.md	
+200	https://www.linkedin.com/company/prithvi-ventures/	github_prs.md	
+200	https://www.linkedin.com/posts/jean-custodio-ph-d-196b0615b_abbvie-just-announced-a-12-billion-dollar-activity-7365808037242032129-UJXZ	backer_targets.md	
+200	https://www.longjourney.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.lorimerventures.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.matchstick.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.materialimpact.com/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.maxventures.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.mayfield.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.mbxcapital.com/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.nasdaqprivatemarket.com/company/gilgamesh-pharma	backer_targets.md	
+200	https://www.negevcap.com	open_dataset/preseed_map_2026.md	
+200	https://www.neurofounders.co/contact	corrections.md	
+200	https://www.nfx.com	open_dataset/preseed_map_2026.md	
+200	https://www.noeticfund.com	open_dataset/preseed_map_2026.md	
+202	https://www.nomadicvp.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	bot-check interstitial
+200	https://www.notboring.co/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.numberoneks.com	free_databases.md; tool/index.html	
+200	https://www.nycfounderguide.com/submit-an-investor	free_databases.md	
+000	https://www.olivetreeventures.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	no response/DNS failure
+200	https://www.openvc.app/fund/Gilgamesh%20Ventures	backer_targets.md	
+200	https://www.operatorpartners.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.palosanto.vc	open_dataset/preseed_map_2026.md	
+200	https://www.pareto20.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.pathbreakervc.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.pebblebed.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+500	https://www.petersonventures.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	server error to curl
+200	https://www.pioneerfund.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.preludeventures.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+403	https://www.premieralts.com/companies/gilgamesh-pharma/investor-list	backer_targets.md	bot wall to curl; content read via Tavily or syndication
+403	https://www.premieralts.com/companies/groq/investor-list	backer_targets.md	bot wall to curl; content read via Tavily or syndication
+200	https://www.preqin.com/data/profile/asset/gilgamesh-pharmaceuticals-inc-/436044	backer_targets.md	
+200	https://www.primary.vc	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.primemoverslab.com	open_dataset/preseed_map_2026.md	
+200	https://www.prithvivc.com	backer_targets.md; corrections.md; free_databases.md; github_prs.md; open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html; wikidata.md	
+200	https://www.prithvivc.com/team	corrections.md; wikidata.md	
+200	https://www.prnewswire.com/news-releases/gilgamesh-pharma-closes-oversubscribed-60-million-series-a-to-develop-next-generation-neuropsychiatric-therapies-302723671.html	backer_targets.md	
+200	https://www.psychedelicfinance.com/company/beckley-psytech	wikidata.md	
+200	https://www.psymed.ventures	open_dataset/preseed_map_2026.md	
+200	https://www.quiet.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.reddit.com/r/wallstreetbets/comments/1puxnfu/nvidia_to_buy_ai_chip_startup_groq_for_20_billion	backer_targets.md	
+200	https://www.redseaventures.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.scout.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+403	https://www.starlight.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	bot wall to curl; content read via Tavily or syndication
+403	https://www.stocktitan.net/news/ATAI/atai-life-sciences-and-beckley-psytech-announce-the-successful-e9b3nqebi51n.html	backer_targets.md; wikidata.md	bot wall to curl; content read via Tavily or syndication
+200	https://www.susaventures.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+000	https://www.thefund.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	no response/DNS failure
+200	https://www.thestar.com.my/tech/tech-news/2026/09/10/us-doj-probes-nvidia039s-licensing-deal-with-ai-startup-groq-nyt-reports	backer_targets.md	
+200	https://www.theventurecollective.com/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.trueventures.com	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.twelvebelow.co/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.undeterredcapital.com	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.up.partners/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.valia.vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vastvc.com/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/11-2-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/1517-fund	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/2048-ventures	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/3cc-third-culture-capital	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/8090-industries	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/8vc	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/97212-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/abstract-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/acequia-capital-acecap	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/afore-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/aix-ventures	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/alix-ventures	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/alleycorp	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/alloy-fund	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/also-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/alt-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/anorak-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/anthropocene-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/asymmetry-ventures	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/axial-vc	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/baruch-future-ventures-bfv	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/baukunst	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/bbg-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/bee-partners	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/better-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/black-flag	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/blank-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/boxgroup	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/caffeinated-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/cantos	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/carbon-silicon-ventures	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/champion-hill-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/charge-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/climate-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/closed-loop-partners	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/cofound-partners	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/colle-capital-partners	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/congruent-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/conscience-vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/context-vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/cortical-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/cowboy-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/crew-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/cubit-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/cybernetix-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/deciens-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/deep-checks	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/digitalis-ventures	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/discipulus-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/drive-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/emerson-collective	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/energy-impact-partners	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/fast-by-gettylab	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/fifty-years	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/first-in-ventures	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/first-star-ventures	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/floodgate	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/foothill-ventures	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/fusion-fund	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/future-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/gaingels	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/gilgamesh-ventures	backer_targets.md	
+200	https://www.vcsheet.com/fund/great-oaks-venture-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/green-egg-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/greycroft	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/gutter-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/harpoon-ventures	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/haystack	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/helios-capital	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/hof-capital	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/human-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/humboldt-fund	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/in-q-tel-iqt	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/industrious-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/innospark-ventures	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/innovating-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/inspired-capital-partners	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/interface-fund	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/julian-capital	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/k50-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/kindred-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/laconia	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/lerer-hippeau	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/lightspeed-venture-partners	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/long-journey-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/looking-glass-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/lorimer-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/lowercarbon-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/mac-venture-capital	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/matchstick-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/material-impact-fund	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/max-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/mayfield-fund	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/mbx-capital	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/nextview-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/nfx	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/nomadic-venture-partners	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/not-boring-capital	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/notation-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/olive-tree-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/one-way-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/operator-partners	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/os-fund	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/outlander-vc	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/outset-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/pareto-holdings	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/pathbreaker-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/pebblebed	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/peterson-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/pillar-vc	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/pioneer-fund	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/powerhouse-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/precursor-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/prelude-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/primary-venture-partners	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/propeller-vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/quiet-capital	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/r7-partners	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/red-beard-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/red-sea-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/redbud-vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/riot-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/scifounders	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/scout-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/seven-seven-six	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/social-impact-capital	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/sosv	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/space-vc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/starlight-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/surface-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/susa-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/the-fund	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/the-longevity-fund	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/the-venture-collective-tvc	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/third-nature	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/third-sphere	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/tmv	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/true-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/twelve-below	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/type-one-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/undeterred-capital	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/up-partners	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/valia-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/vast-ventures	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/vibe-capital-f	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/vine-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/vitaminoc	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/volo-earth-ventures	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/voyager	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/fund/wireframe-ventures	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.vcsheet.com/fund/xfund	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vcsheet.com/terms-of-use	open_dataset/README.md	
+200	https://www.vineventures.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.vitaminc.vc/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.voloearth.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.voyagervc.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
+200	https://www.wireframevc.com/	open_dataset/preseed_investors_us_2026.csv; open_dataset/preseed_map_2026.md; tool/index.html	
+200	https://www.ycombinator.com	open_dataset/preseed_map_2026.md	
+200	https://x.com/aakashgupta/status/2004105278627963168?lang=en	backer_targets.md	
+200	https://xfund.com/	open_dataset/preseed_investors_us_2026.csv; tool/index.html	
