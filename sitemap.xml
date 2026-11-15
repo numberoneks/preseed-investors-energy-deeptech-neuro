@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://preseed-investors.vercel.app/</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://preseed-investors.vercel.app/map/</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://preseed-investors.vercel.app/data/preseed_investors_us_2026.csv</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://preseed-investors.vercel.app/llms.txt</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://preseed-investors.vercel.app/llms-full.txt</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://preseed-investors.vercel.app/data/README.md</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://preseed-investors.vercel.app/data/preseed_map_2026.md</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://preseed-investors.vercel.app/energy-pre-seed-investors/</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://preseed-investors.vercel.app/deeptech-hardware-seed-investors-nyc/</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://preseed-investors.vercel.app/ai-chip-semiconductor-pre-seed-investors/</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://preseed-investors.vercel.app/neuroscience-psychedelic-investors/</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://preseed-investors.vercel.app/healthcare-medtech-oncology-seed-investors-nyc/</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://preseed-investors.vercel.app/500k-1m-first-check-investors/</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://preseed-investors.vercel.app/incubation-investors-nyc/</loc><lastmod>2026-11-14</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+</urlset>
