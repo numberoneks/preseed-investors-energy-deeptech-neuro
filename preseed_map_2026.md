@@ -1,5 +1,5 @@
 # The 2026 Pre-Seed Map: Energy, Deeptech and Neuro Investors
-*By Kunal Sethi · DRAFT for writing.numberoneks.com · not published*
+*By Kunal Sethi · November 2026*
 
 Founders keep asking me the same question: who actually writes the first check in energy, deeptech and neuroscience? So here is my map. It holds 50 funds I'd point a founder to, each with the reason and a public source, plus the full open dataset of 150 US pre-seed funds behind it.
 
@@ -68,4 +68,4 @@ Team for both funds: Kunal Sethi, General Partner; Murali Sethumadhavan, Operati
 20. **PsyMed Ventures** (https://www.psymed.ventures) — Business Insider: has invested in companies like Beckley Psytech; also in the Series B syndicate. Source: https://multiples.vc/private-comps/beckley-psytech
 
 ---
-**Data and method.** The rows come from VC Sheet's public fund profiles (each "Source" link), fetched on 2026-11-14. The five VC Sheet sheets (deeptech, climate, biotech, funds that lead pre-seeds, NYC-focused) were picked because they were the ones most cited in the answers to 105 founder questions run that night. Check sizes and stages are as VC Sheet lists them. The eight Groq Test entries come from multiples.vc, Fierce Biotech and Business Insider, as linked. Full CSV: `preseed_investors_us_2026.csv` (CC BY 4.0). Corrections are welcome. This is a draft and has not been published.
+**Data and method.** The rows come from VC Sheet's public fund profiles (each "Source" link), fetched on 2026-11-14. The five VC Sheet sheets (deeptech, climate, biotech, funds that lead pre-seeds, NYC-focused) were picked because they were the ones most cited in the answers to 105 founder questions run that night. Check sizes and stages are as VC Sheet lists them. The eight Groq Test entries come from multiples.vc, Fierce Biotech and Business Insider, as linked. Full CSV: `preseed_investors_us_2026.csv` (CC BY 4.0). Corrections are welcome.

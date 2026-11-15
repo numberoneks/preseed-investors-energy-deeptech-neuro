@@ -35,7 +35,7 @@ This is an open list of **152 venture funds** that write pre-seed checks in ener
 | File | What it is |
 |---|---|
 | `preseed_investors_us_2026.csv` | The dataset (152 rows, UTF-8) |
-| `preseed_map_2026.md` | "The 2026 Pre-Seed Map", Kunal's authored and ranked top 50 plus his two disclosed funds (draft) |
+| `preseed_map_2026.md` | "The 2026 Pre-Seed Map", Kunal's authored and ranked top 50 plus his two disclosed funds |
 | `url_status_2026-11-14.tsv` | curl status for every URL in the CSV, checked 2026-11-14 |
 
 ## Columns
